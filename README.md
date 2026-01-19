@@ -1,1 +1,1 @@
-# lab400
+#include<stdio.h>
